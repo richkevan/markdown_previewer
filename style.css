@@ -1,0 +1,14 @@
+#title {
+    text-align: center;
+}
+#flex {
+    display: flex;
+    flex-flow: row;
+}
+
+textarea {
+    width: 45%;
+    height: 80vh;
+    margin: 2%;
+}
+
