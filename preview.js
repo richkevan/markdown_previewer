@@ -18,7 +18,7 @@ const Markdown = () => {
         \n* second item
         \nPeter Drucker once said
         \n>"There is nothing so useless as doing efficiently that which should not be done at all."
-        \n![Picture of Rich](\\imgs\\fistbump.png)
+        \n![Picture of Rich](.\\imgs\\fistbump.png)
         \n**This is strong text**`
     )
     const [output, setOutput] = React.useState(initial)
